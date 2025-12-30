@@ -7,8 +7,10 @@ Walter sighed. “Do try not to enjoy this too much.”
 
 The moment Paige and Walter stepped into the drawing room, four heads snapped toward them — though only one voice rose above the pandemonium.
 “Amanda Murphy,” declared a young woman with a dazzling smile, sweeping forward and nearly bowling Walter over.
- “Professor Paige Turner! I cannot believe you’re standing in my home. I’ve read all your cases. The Berlin Affair? Iconic.”
+
+“Professor Paige Turner! I cannot believe you’re standing in my home. I’ve read all your cases. The Berlin Affair? Iconic.”
 Her voice was noticeably congested. And there was a scent of cinnamon in the air
+
 “Forgive me, I’ve picked up a summer cold. I’ve been bunged up for days — I can barely smell a thing.”
 Paige blinked, a little startled but undeniably pleased.
 “My word. A fan. How refreshing.”
