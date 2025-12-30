@@ -1,4 +1,4 @@
-# Chapter 8 — The Soggy Biscuit
+# Chapter 7 — The Soggy Biscuit
 ### Part I: Interrogating Sly Si
 The office of Simon Coulson, Esq. was perched precariously above a grocer’s shop, smelling of wilted cabbage and old parchment. It was a room designed for hiding, not for law.
 Simon Coulson, a man who looked like a startled worm in a cheap suit, was mid-sentence when his door didn't just open—it vanished behind the sheer physical mass of the people entering.
