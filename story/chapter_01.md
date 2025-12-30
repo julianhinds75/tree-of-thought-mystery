@@ -1,6 +1,6 @@
 # The Cat That Got The Cream - A Paige Turner Mystery
 
-### Chapter 1 — The Summons
+## Chapter 1 — The Summons
 
 King Winston University sprawled across the hillside like a small, self-important village. Its clock towers stabbed the sky; its long stone corridors echoed with the patter of hurried footsteps and the droning lectures of ancient dons. It was here, between the cloistered arches and ivory towers, that young Walter Bishop strode with purpose.
 “Pardon—terribly sorry—my apologies—”
