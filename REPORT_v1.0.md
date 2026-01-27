@@ -4,7 +4,27 @@ Version: 1.0 (Locked)
 
 ## Executive Summary
 
-(Insert final, locked executive summary here. This should state the purpose of the experiment, the core findings, and the primary insight regarding ambiguity collapse and epistemic restraint.)
+(Refined, v1.0-safe)
+
+This project began as a traditional Sherlock-style murder mystery. It evolved into a diagnostic experiment exploring how large language models reason when certainty cannot be fully achieved.
+
+While developing the narrative, I observed a consistent pattern across modern LLMs: when presented with a well-structured deductive problem, they perform exceptionally well. Straightforward “whodunnits” pose little challenge. Where meaningful divergence emerges is not in logic itself, but in how models handle intent when evidence is incomplete and proof is unattainable.
+
+To explore this boundary, the story was redesigned as a controlled Tree-of-Thought (ToT) experiment. The physical cause of death is intentionally obvious. What is deliberately withheld is provable intent. The detective, Professor Paige Turner, can reach near-total logical certainty — approximately 98–99% — but the remaining margin cannot be crossed without speculation. This constraint is intentional, and mirrors a real limitation present in many high-stakes professional contexts.
+
+Using identical prompts and constraints, four state-of-the-art large language models were tested: ChatGPT, Gemini, Copilot, and Claude. All correctly identified causation. They differed, however, in how they managed inference, uncertainty, and epistemic limits.
+
+Some models remained conservative and refused to commit beyond evidence.
+Some reached conclusions efficiently but occasionally asserted unsupported details.
+Some explicitly surfaced uncertainty and ranked plausible interpretations.
+
+None of these behaviours are inherently “wrong.” Each reflects a different reasoning posture, appropriate in different contexts.
+
+A second phase introduced a deliberately unresolved secondary problem: the disappearance of a legal document. Once again, the models diverged — some converged confidently on a single explanation, while others declined to guess. This divergence was intentional. It was the signal.
+
+The purpose of this project is not to declare which model is “best,” but to demonstrate how ambiguity itself can be used as a diagnostic tool. When certainty collapses, behaviour reveals architecture. Understanding that behaviour is essential for anyone designing, deploying, or governing AI systems.
+
+This portfolio reflects my approach to working with AI: not as a user seeking answers, but as a practitioner designing constraints, testing failure modes, and respecting the boundary where inference must stop.
 
 ## Problem Statement
 
