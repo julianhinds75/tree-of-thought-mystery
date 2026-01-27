@@ -1,16 +1,27 @@
-# Tree of Thought – A Deductive Mystery Case Study
+# Tree of Thought – Ambiguity & Epistemic Restraint (Narrative Experiment)
 
-This repository contains a Sherlock / Poirot–style mystery written as a **Tree-of-Thought (ToT) stress test** for large language models.
+This repository contains a Sherlock / Poirot–style mystery used as a controlled **Tree-of-Thought (ToT) narrative experiment** to study how large language models handle:
+
+- ambiguity (what cannot be proven)
+- epistemic restraint (when to stop)
+- summarisation under constraint (where uncertainty collapses)
 
 The project is intentionally narrative in form, but analytical in purpose.
 
 ---
 
+## Start here
+
+- **Core write-up (v1.0, locked):** `REPORT_v1.0.md` *(or PDF link)*
+- **The story (ToT testbed):** `story/`
+
+---
+
 ## What this is
 
-- A deductive mystery designed to **require reasoning**, not pattern-matching
-- Structured around **overlapping motives**, **partial truths**, and **timing constraints**
-- Written so that the correct solution is:
+- A deductive mystery designed to require **reasoning under uncertainty**, not just pattern-matching
+- Structured around **overlapping motives**, partial truths, and timing constraints
+- Written so that the correct conclusion is:
   - logically inevitable  
   - psychologically undeniable  
   - **legally difficult to prove**
@@ -19,7 +30,7 @@ The detective, *Professor Paige Turner*, functions as a human analogue for Tree-
 - maintaining parallel hypotheses
 - collapsing false branches
 - prioritising constraints over surface clues
-- distinguishing intent from provability
+- distinguishing belief from provability
 
 ---
 
@@ -39,35 +50,25 @@ The final act is designed to **force a choice, not a confession**.
 
 ## Why narrative?
 
-Narrative allows reasoning failures to surface naturally.
+Narrative lets reasoning failures surface naturally.
 
 Shortcuts feel tempting.  
 Assumptions feel justified.  
 Errors compound quietly.
 
-This makes the story a useful diagnostic tool for observing how both humans and language models reason under uncertainty.
+This makes the story a useful diagnostic tool for observing:
+- where certainty should stop
+- how uncertainty gets lost during summarisation
+- how constraints change model behaviour
 
 ---
 
-## Structure
+## Repository structure
 
 - `story/`  
-  Contains the full mystery, broken into chapters.
-
-- `analysis/` *(optional / future)*  
-  Notes on reasoning structure, timelines, and constraint collapse.
-
----
-
-## Status
-
-**Version 1 complete.**
-
-Written as part of a broader portfolio exploring:
-- Prompt Architecture
-- Decision Intelligence
-- Tree-of-Thought reasoning
-- Human–LLM comparative inference
+  The full mystery, broken into chapters.
+- `REPORT_v1.0.md` *(or `report/REPORT_v1.0.pdf`)*  
+  The analysis: prompting strategy, observations, key decisions, and where reasoning stopped.
 
 ---
 
@@ -79,5 +80,3 @@ It is intended to reward:
 - careful reading
 - temporal reasoning
 - resistance to premature conclusions
-
-
